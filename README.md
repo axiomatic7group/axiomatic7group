@@ -1,5 +1,5 @@
 
-## [Ax Lab]((https://axiomaticlab.com): Doing what is Obvious
+## [Ax Lab](https://axiomaticlab.com): Doing what is Obvious
 Redefining Automation Through Task-Based Intelligence & Radical Control.
 
 -----------------
