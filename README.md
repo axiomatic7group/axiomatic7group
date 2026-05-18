@@ -21,22 +21,22 @@ Most agentic workflows fail because they are purely probabilistic. Ax Lab wins b
 
 ## Key Product Features
 
-**1. Deterministic Task Onboarding**
+**Deterministic Task Onboarding**
 We don't "prompt" agents; we onboard workers. Ax Lab converts intuitive business processes into autonomous, task-level building blocks. If a process is documented, it is automatable with 100% auditability.
 
-**2. Hierarchical Permissioning (Fail-to-Human)**
+**Hierarchical Permissioning (Fail-to-Human)**
 AI shouldn't have "God Mode."
 
 * Attribute-Based Access Control (ABAC): Every automated action is signed with a security clearance level, mirroring your existing corporate hierarchy.
 * The Trust Gap Bridge: We solve the liability shift. When an agent encounters an edge case, it triggers a "Fail-to-Human" handoff, ensuring 0% hallucination in critical paths.
 
-**3. Non-Linear Process Resilience**
+**Non-Linear Process Resilience**
 Standard automation is brittle. Ax Lab is Dynamic.
 
 * Modular Recovery: Audit, modify, and resume individual tasks mid-stream without disrupting the entire orchestration.
 * Operational Momentum: Eliminate the "Restart from Step 1" cost, saving thousands in compute and manual overhead.
 
-**4 Approach:**
+**Approach:**
 
 **- 1. The "Obvious" Workflow**
 We focus on intuitive, task-level building blocks. If a process is clear enough for a human to follow, it’s a candidate for Ax Lab automation. We turn the obvious into the autonomous.
