@@ -13,7 +13,7 @@ We don’t just deploy scripts; we **onboard intelligence.** Our systems are des
 
 ![Axiom, is the Governance, Semantic, Action & Reasoning Layer for Digital Labor](./assets/axiomatic_lab_hero.png).
 
-## Axiom, The Governance, Semantic, & Action + Reasoning Layer for Digital Labor.
+## Axiom, The Governance, Semantic, Action, & Reasoning Layer for Digital Labor.
 
 Axiom, our main product, is the Governance, Semantic, Action & Reasoning Layer for Digital Labor
 Most agentic workflows fail because they are purely probabilistic. We solve the "probabilistic failure" problem by unifying the four critical layers of enterprise execution::
