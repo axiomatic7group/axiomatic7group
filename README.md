@@ -11,7 +11,7 @@ We don’t just deploy scripts; we **onboard intelligence.** Our systems are des
 
 ------------------------------
 
-![Axiom, is the Governance, Semantic, Action & Reasoning Layer for Digital Labor](https://github.com/axiomatic7group/axiomatic7group/raw/main/assets/axiomatic_lab_hero.png).
+![Axiom, is the Governance, Semantic, Action & Reasoning Layer for Digital Labor](https://github.com/axiomatic7group/axiomatic7group/raw/main/assets/axiomatic_lab_hero.png)
 
 ## Axiom, The Governance, Semantic, Action, & Reasoning Layer for Digital Labor.
 
