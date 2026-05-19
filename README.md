@@ -11,9 +11,12 @@ Modern AI is often a "black box"—unpredictable, over-privileged, and brittle. 
 We don’t just deploy scripts; we **onboard intelligence.** Our systems are designed to perform individual tasks with the same logic, security clearance, and auditability as your best human hire.
 
 ------------------------------
+
+![Axiom, is the Governance, Semantic, & Action Layer for Digital Labor](./assets/axiomatic_lab_hero.png).
+
 ## Axiom, The Governance, Semantic, & Action Layer for Digital Labor.
 
-Axiom, our main product, is the Governance, Semancti, & Action Layer for Digital Labor
+Axiom, our main product, is the Governance, Semantic, & Action Layer for Digital Labor
 Most agentic workflows fail because they are purely probabilistic. We solve the "probabilistic failure" problem by unifying the four critical layers of enterprise execution::
 
 * **The Governance Layer (Synapse)**: Synapse brings all your data and systems into one platform, ensuring that AI agents, much like your employees, operate with granular User-Security Level Attribution, preventing "Shadow AI" and unauthorized data access.
