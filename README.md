@@ -11,15 +11,16 @@ Modern AI is often a "black box"—unpredictable, over-privileged, and brittle. 
 We don’t just deploy scripts; we **onboard intelligence.** Our systems are designed to perform individual tasks with the same logic, security clearance, and auditability as your best human hire.
 
 ------------------------------
-## The Architectural Moat: Our Four-Layer Stack
+## Axiom, The Governance, Semantic, & Action Layer for Digital Labor.
 
 Axiom, our main product, is the Governance, Semancti, & Action Layer for Digital Labor
-Most agentic workflows fail because they are purely probabilistic. Our solution wins by unifying the four critical layers of enterprise-grade digital labor:
+Most agentic workflows fail because they are purely probabilistic. We solve the "probabilistic failure" problem by unifying the four critical layers of enterprise execution::
 
-* **The Reasoning Layer (Daemon)**: A secure "background brain" that manages the logic split between local privacy and API power while maintaining organizational memory.
-* **The Governance Layer (Synapse)**: Our "Access Control" moat. Synapse ensures that AI agents operate with granular User-Security Level Attribution, preventing "Shadow AI" and unauthorized data access.
-* **The Action Layer (Cadence)**: A rhythmic, repeatable orchestrator. Cadence manages task dependency logic, allowing for Surgical Correction—if a 20-step process fails at step 12, you fix the task, not the workflow.
-* **The Semantic Layer(Synapse)**: The interface between unstructured data and structured execution, ensuring the AI understands your business logic as intuitively as a human hire.
+* **The Governance Layer (Synapse)**: Synapse brings all your data and systems into one platform, ensuring that AI agents, much like your employees, operate with granular User-Security Level Attribution, preventing "Shadow AI" and unauthorized data access.
+* **The Semantic Layer(Synapse)**: The interface between unstructured data and structured execution, ensuring the AI understands your business logic that it has access to, as intuitively as a human hire.
+* **The Action Layer (Cadence)**: A rhythmic, repeatable orchestrator. Cadence manages task dependency logic, allowing for Surgical Correction—if a 20-step process fails at step 12, you fix the task, not the entire workflow.
+* **The Reasoning Layer (Daemon)**: A secure "brain" that manages the logic split between local privacy and API power while maintaining organizational memory. Designed to optimize for privacy and performance while minimizing token costs. 
+
 
 ## Key Product Features
 
@@ -69,6 +70,13 @@ We are looking for partners and enterprises ready to move past the AI hype and i
 
 * For Enterprises: Secure your automation and eliminate process fragility.
 * For Visionaries: Help us define the next era of "Obvious" intelligence.
+
+-------------------------------
+## About Axiomatic Lab
+
+Bringing Common Sense Back to Automation
+
+Ax Lab exists to close the gap between AI potential and enterprise reality. We believe that the best AI behaves like a professional: it is accountable, transparent, and secure. We are not just building software; we are building the onboarding framework for the next generation of your workforce.
 
 [Explore Our Youtube Channel](https://www.youtube.com/channel/UCltGi4Su305oln_ldu-b94Q) | [Inquire About a Pilot](https://axiomaticlab.com) | [View Our LinkedIn](https://www.linkedin.com/company/axiomatic-lab/)
 
