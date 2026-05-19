@@ -5,6 +5,8 @@ Redefining Automation Through Task-Based Intelligence & Radical Control.
 -----------------
 
 ### Our Mission
+AI agents are great at passing exams, but terrible at taking out the trash. The hard truth about the agentic AI wave is this: models work in controlled, single-turn prompts, but agents fail in production because they can't remember yesterday, they don't know when to ask for help, and they repeat the same mistakes until your budget burns out.
+
 Modern AI is often a "black box"—unpredictable, over-privileged, and brittle. Ax Lab exists to bring common sense back to automation. 
 We don’t just deploy scripts; we **onboard intelligence.** Our systems are designed to perform individual tasks with the same logic, security clearance, and auditability as your best human hire.
 
@@ -12,7 +14,7 @@ We don’t just deploy scripts; we **onboard intelligence.** Our systems are des
 ## The Architectural Moat: Our Four-Layer Stack
 
 Axiom, our main product, is the Governance, Semancti, & Action Layer for Digital Labor
-Most agentic workflows fail because they are purely probabilistic. Ax Lab wins by unifying the four critical layers of enterprise-grade digital labor:
+Most agentic workflows fail because they are purely probabilistic. Our solution wins by unifying the four critical layers of enterprise-grade digital labor:
 
 * **The Reasoning Layer (Daemon)**: A secure "background brain" that manages the logic split between local privacy and API power while maintaining organizational memory.
 * **The Governance Layer (Synapse)**: Our "Access Control" moat. Synapse ensures that AI agents operate with granular User-Security Level Attribution, preventing "Shadow AI" and unauthorized data access.
@@ -22,7 +24,7 @@ Most agentic workflows fail because they are purely probabilistic. Ax Lab wins b
 ## Key Product Features
 
 **Deterministic Task Onboarding**
-We don't "prompt" agents; we onboard workers. Ax Lab converts intuitive business processes into autonomous, task-level building blocks. If a process is documented, it is automatable with 100% auditability.
+We don't "prompt" agents; we onboard workers. Ax Lab converts intuitive business processes into autonomous, task-level building blocks. **If a process is documented, it is automatable with 100% auditability.**
 
 **Hierarchical Permissioning (Fail-to-Human)**
 AI shouldn't have "God Mode."
