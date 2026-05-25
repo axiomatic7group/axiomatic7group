@@ -7,7 +7,7 @@
 AI agents are great at passing exams, but terrible at taking out the trash. The hard truth about the agentic AI wave is this: models work in controlled, single-turn prompts, but agents fail in production because they can't remember yesterday, they don't know when to ask for help, and they repeat the same mistakes until your budget burns out.
 
 Modern AI is often a "black box"—unpredictable, over-privileged, and brittle. Ax Lab exists to bring common sense back to automation. 
-We don’t just deploy scripts; we **onboard intelligence.** Our systems are designed to perform individual tasks with the same logic, security clearance, and auditability as your best human hire.
+We don’t just deploy scripts; we **onboard inteligent assistants.** Our systems are designed to work alongside your staff, making them more productive, retaining knowledge through employee turnover, and automating individual tasks with the same logic, security clearance, and auditability as your best human hire.
 
 ------------------------------
 
@@ -21,13 +21,13 @@ Most agentic workflows fail because they are purely probabilistic. We solve the 
 * **The Governance Layer (Synapse)**: Synapse brings all your data and systems into one platform, ensuring that AI agents, much like your employees, operate with granular User-Security Level Attribution, preventing "Shadow AI" and unauthorized data access.
 * **The Semantic Layer(Synapse)**: The interface between unstructured data and structured execution, ensuring the AI understands your business logic that it has access to, as intuitively as a human hire.
 * **The Action Layer (Cadence)**: A rhythmic, repeatable orchestrator. Cadence manages task dependency logic, allowing for Surgical Correction—if a 20-step process fails at step 12, you fix the task, not the entire workflow.
-* **The Reasoning Layer (Daemon)**: A secure "brain" that manages the logic split between local privacy and API power while maintaining organizational memory. Designed to optimize for privacy and performance while minimizing token costs. 
+* **The Reasoning Layer (Daemon)**: A secure and private AI that users can chat with, that doubles as a "second-brain" that manages and organizes the logic split between local privacy and API power while maintaining organizational memory. Designed to optimize for privacy and performance while minimizing token costs. 
 
 
 ## Key Product Features
 
 **Deterministic Task Onboarding**
-We don't "prompt" agents; we onboard workers. Ax Lab converts intuitive business processes into autonomous, task-level building blocks. **If a process is documented, it is automatable with 100% auditability.**
+We don't "prompt" agents; we onboard worker-assitants. Ax Lab helps your employees convert their most intuitive business processes into autonomous, task-level building blocks. **If a process is documented, it is automatable with 100% auditability.**
 
 **Hierarchical Permissioning (Fail-to-Human)**
 AI shouldn't have "God Mode."
@@ -44,24 +44,25 @@ Standard automation is brittle. Ax Lab is Dynamic.
 **Approach:**
 
 **- 1. The "Obvious" Workflow**
-We focus on intuitive, task-level building blocks. If a process is clear enough for a human to follow, it’s a candidate for Ax Lab automation. We turn the obvious into the autonomous.
+We focus on intuitive, task-level building blocks. If a process is clear enough for your employee to follow and explain, Axiom can help them automate it. We turn the obvious into the autonomous.
 
 **- 2. Hierarchical Security (User-Level Attribution)**
 AI shouldn't have a "God Mode" key to your database.
 
-* Granular Permissions: Every single task in our orchestration is assigned a specific user-security level.
-* Strict Access: Our AI respects your existing organizational hierarchy, interacting only with the data it is cleared to see.
+* Granular Permissions: Every single task in our orchestration is assigned the row-level secutiry of their employee owner.
+* Strict Access: Because it is deployed at the user-level, each agent can only do what their employee companion has access to; No marketing team will be accidentaly deleting databases on accident on our watch.
 
 **- 3. Non-Linear Resilience (Surgical Correction)**
 Stop wasting time on "restart from Step 1."
 
 * Modular Recovery: If a 20-step process fails at step 12, you can audit, fix, and resume at step 12.
-* Dynamic Orchestration: Correct individual tasks mid-process without disrupting the entire workflow, saving compute time and operational momentum.
+* Dynamic Orchestration: Correct individual tasks mid-process without disrupting the entire workflow, saving compute time and costs, and operational momentum.
 
 ------------------------------
 ## Our Approach: Onboarding vs. Integration
 We believe the best AI behaves like a professional. Our "Onboarding" framework ensures:
 
+* Champions: The best way to adopt technology in the work place is from within not from the top; Using Champions/Power-Users to guide the internal On-boarding ensures our tools are better recieved and utilized by even the least tech-savy employees.
 * Auditability: Real-time logging of who (which agent) did what, and under what authority.
 * Agility: Swap, upgrade, or pause individual tasks without breaking the system.
 * Transparency: No black boxes. Just logic you can see, verify, and trust.
