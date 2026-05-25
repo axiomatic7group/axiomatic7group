@@ -43,16 +43,16 @@ Standard automation is brittle. Ax Lab is Dynamic.
 
 **Approach:**
 
-**- 1. The "Obvious" Workflow**
+**1. The "Obvious" Workflow**
 We focus on intuitive, task-level building blocks. If a process is clear enough for your employee to follow and explain, Axiom can help them automate it. We turn the obvious into the autonomous.
 
-**- 2. Hierarchical Security (User-Level Attribution)**
+**2. Hierarchical Security (User-Level Attribution)**
 AI shouldn't have a "God Mode" key to your database.
 
 * Granular Permissions: Every single task in our orchestration is assigned the row-level secutiry of their employee owner.
 * Strict Access: Because it is deployed at the user-level, each agent can only do what their employee companion has access to; No marketing team will be accidentaly deleting databases on accident on our watch.
 
-**- 3. Non-Linear Resilience (Surgical Correction)**
+**3. Non-Linear Resilience (Surgical Correction)**
 Stop wasting time on "restart from Step 1."
 
 * Modular Recovery: If a 20-step process fails at step 12, you can audit, fix, and resume at step 12.
