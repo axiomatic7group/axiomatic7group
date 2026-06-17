@@ -1,87 +1,105 @@
+## About Us 
 
-## [Ax Lab](https://axiomaticlab.com): Doing what is Obvious
+**Deterministic AI for High-Compliance Markets**
 
------------------
+Welcome to Ax(iomatic) Lab, we created Axiom AI, the AI Operating System that helps your organization grow faster, and work smarter.
 
-### Our Mission
-AI agents are great at passing exams, but terrible at taking out the trash. The hard truth about the agentic AI wave is this: models work in controlled, single-turn prompts, but agents fail in production because they can't remember yesterday, they don't know when to ask for help, and they repeat the same mistakes until your budget burns out.
+Standard agentic AI frameworks are distributed across different platforms and systems, each with their own on-boarding, learning-curve, and results.
+Axiom AI brings all your AI tools in one place, chat, automate workflows, take notes, make plans, manage your calendar, enrich your leads, follow up with clients, and much, much, more, all in one platform. This allows for operational efficency, while AI learns, categorizes, documents and updates SOPs, Strategic Plans, FAQs, Content Ideas and more in the background while you run your business. 
 
-Modern AI is often a "black box"—unpredictable, over-privileged, and brittle. Ax Lab exists to bring common sense back to automation. 
-We don’t just deploy scripts; we **onboard inteligent assistants.** Our systems are designed to work alongside your staff, making them more productive, retaining knowledge through employee turnover, and automating individual tasks with the same logic, security clearance, and auditability as your best human hire.
+![Axiom AI](https://axiomaticlab.com/img/axiom_ai_home_hero.png)
+
+
+------------------------------
+## Strategic Leadership
+
+**Daniel Marques**
+
+Founder - [LinkedIn Profile](https://www.linkedin.com/in/daniel-encarnacao/)
+
+Daniel is an executive finance and operations leader with over six years of experience accelerating technological and operational development within Tier-1 financial institutions. Expert in aligning core financial and fiscal strategy with automated data systems, he specializes in building 0-to-1 operational systems and workflows across complex, highly regulated corporate environments.
+
+Prior to launching Axiomatic Lab, Daniel operated as the Head of the CFO Solutions at a Top-10 Global Investment Bank in New York. In this capacity, he directed the AI-driven data automation strategies that achieved $25M to $35M in annual operational efficiencies, cut global reporting turnaround times by 25%, and removed 85% of human input errors across critical cash flow reporting streams.
+
+His background includes scaling capital architecture systems for the Finance Department of one of the leading European Investment Bank, deploying advanced process automation, dynamic statistical forecasting models, and establishing robust cross-border partnerships across ALM, Corporate Treasury, and Risk Management divisions to ensure innovation and improvements implemented meet stringent regulatory expectations. Daniel holds a BS in Business Management with a concentration in Fintech from the Martin Tuchman School of Management at NJIT, where he previously engineered automated quantitative trading systems as President of the NJIT Student Investment Fund.
+
+------------------------------
+## Engineered for High Compliance 
+
+**The Axiom Layers**
+
+Our core platform solves the structural failure points of generative models through four deterministic software layers:
+
+* *The Governance Layer (Synapse)*: Enforces rigid Attribute-Based Access Control (ABAC). Automated agents mirror your institution's specific user-security clearances, completely preventing unauthorized internal data exposure and eliminating "Shadow AI".
+
+* *The Semantic Layer (Synapse)*: Translates complex, unstructured data points directly into structured, immutable corporate execution rules, ensuring agents interpret business realities without context-drift.
+
+* *The Action Layer (Cadence)*: Replaces linear brittle scripts with Non-Linear Process Resilience. If a 20-step institutional data pipe fails at step 12 due to a system timeout, our system executes a Surgical Correction—allowing the operator to patch the failure and resume at step 12 instead of wasting compute resetting the process back to step one.
+
+* *The Reasoning Layer (Daemon)*: Isolates a private "brain" that manages local data governance constraints versus API interactions, maximizing organizational data privacy while reducing token costs.
+
+
+------------------------------
+## Institutional Technical Stack
+We build data infrastructure designed to withstand strenuous User Acceptance Testing (UAT) and rigorous regulatory compliance audits:
+
+<table style="width: 100%; text-align: left; border: thin solid var(--border) ; border-radius: 6px; overflow: hidden;">
+  <thead style="background:var(--bg-dark);">
+    <tr style=" border-bottom: thin solid var(--border) ;">
+      <th style="padding: 12px 16px; font-weight: 600; width: 30%;">Infrastructure Category</th>
+      <th style="padding: 12px 16px; font-weight: 600; width: 70%; color:var(--text-muted)">Technologies & Integrations Utilized</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 12px 16px; font-weight: bold;">AI Models</td>
+      <td style="padding: 12px 16px;  line-height: 1.5; color:var(--text-muted); background:var(--bg);">Open-Source/Open-Weight, GDPR compliant AI Models</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px; font-weight: bold;">AI Frameworks & Agents</td>
+      <td style="padding: 12px 16px;  line-height: 1.5; color:var(--text-muted); background:var(--bg);">LangChain, Custom RAG (Retrieval-Augmented Generation), TensorFlow</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px; font-weight: bold;">Data Processing & Analytics</td>
+      <td style="padding: 12px 16px;  line-height: 1.5; color:var(--text-muted); background:var(--bg);">Python, Scikit-learn, Advanced Data Governance Tooling</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px; font-weight: bold; ">Database & Cloud Storage</td>
+      <td style="padding: 12px 16px; line-height: 1.5; color:var(--text-muted); background:var(--bg);">PostgreSQL, Enterprise Relational Architectures, Highly-Secure Local Data Environments</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px; font-weight: bold;">Security & Operational Controls</td>
+      <td style="padding: 12px 16px; line-height: 1.5; color:var(--text-muted); background:var(--bg);">Attribute-Based Access Control (ABAC), Real-time Audit Logs, Human-in-the-loop (HITL) Handoffs</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+------------------------------
+## Example Services & Solutions
+
+1. Deterministic Task Onboarding: We ingest your current documented, step-by-step financial procedures and convert them into secure, task-level automated building blocks with 100% comprehensive audit tracking. 
+
+2. Automated Cash Flow & Utilization Modeling: Implementation of automated statistical structures to optimize asset liability management (ALM) and predict liquidity constraints.
+  
+3. Risk Mitigation Dashboards: Custom modeling and performance tracking "Digital Twin" built to shrink user information-to-action timelines and detect edge case risks early.
+
+4. The Fail-to-Human Trust Bridge: Custom deployment of strict fallback workflows like Client On-Boarding or KYC. When an LLM experiences an unmapped edge case, the platform automatically halts execution and triggers an immediate handoff to human personnel, enforcing a 0% hallucination environment in critical operational paths.
 
 ------------------------------
 
-![Axiom, is the Governance, Semantic, Action & Reasoning Layer for Digital Labor](https://github.com/axiomatic7group/axiomatic7group/raw/main/assets/axiomatic_lab_hero.png)
 
-## Axiom, The Governance, Semantic, Action, & Reasoning Layer for Digital Labor.
+## Secure Your Automation: Inquire About an Enterprise Pilot Today!
 
-Axiom, our main product, is the Governance, Semantic, Action & Reasoning Layer for Digital Labor
-Most agentic workflows fail because they are purely probabilistic. We solve the "probabilistic failure" problem by unifying the four critical layers of enterprise execution::
+Stop experimenting with brittle prompts. Onboard auditable, hierarchical, and resilient digital labor built for high-compliance enterprises.
 
-* **The Governance Layer (Synapse)**: Synapse brings all your data and systems into one platform, ensuring that AI agents, much like your employees, operate with granular User-Security Level Attribution, preventing "Shadow AI" and unauthorized data access.
-* **The Semantic Layer(Synapse)**: The interface between unstructured data and structured execution, ensuring the AI understands your business logic that it has access to, as intuitively as a human hire.
-* **The Action Layer (Cadence)**: A rhythmic, repeatable orchestrator. Cadence manages task dependency logic, allowing for Surgical Correction—if a 20-step process fails at step 12, you fix the task, not the entire workflow.
-* **The Reasoning Layer (Daemon)**: A secure and private AI that users can chat with, that doubles as a "second-brain" that manages and organizes the logic split between local privacy and API power while maintaining organizational memory. Designed to optimize for privacy and performance while minimizing token costs. 
+Now accepting applications for Axiom's Beta Enterprise Pilot Programs.
 
+Our engineering team will assess your current manual functions and data sources, identify your intuitive, high-volume processes, and deploy an auditable, 100% compliant Axiom AI layer tailored to your company's tech stack and staff.
 
-## Key Product Features
+Request a Technical Pilot [Consultation!](https://axiomaticlab.com/contact)
 
-**Deterministic Task Onboarding**
-We don't "prompt" agents; we onboard worker-assitants. Ax Lab helps your employees convert their most intuitive business processes into autonomous, task-level building blocks. **If a process is documented, it is automatable with 100% auditability.**
+See Axiom in [Action!](https://www.youtube.com/channel/UCltGi4Su305oln_ldu-b94Q)
 
-**Hierarchical Permissioning (Fail-to-Human)**
-AI shouldn't have "God Mode."
-
-* Attribute-Based Access Control (ABAC): Every automated action is signed with a security clearance level, mirroring your existing corporate hierarchy.
-* The Trust Gap Bridge: We solve the liability shift. When an agent encounters an edge case, it triggers a "Fail-to-Human" handoff, ensuring 0% hallucination in critical paths.
-
-**Non-Linear Process Resilience**
-Standard automation is brittle. Ax Lab is Dynamic.
-
-* Modular Recovery: Audit, modify, and resume individual tasks mid-stream without disrupting the entire orchestration.
-* Operational Momentum: Eliminate the "Restart from Step 1" cost, saving thousands in compute and manual overhead.
-
-**Approach:**
-
-**1. The "Obvious" Workflow**
-We focus on intuitive, task-level building blocks. If a process is clear enough for your employee to follow and explain, Axiom can help them automate it. We turn the obvious into the autonomous.
-
-**2. Hierarchical Security (User-Level Attribution)**
-AI shouldn't have a "God Mode" key to your database.
-
-* Granular Permissions: Every single task in our orchestration is assigned the row-level secutiry of their employee owner.
-* Strict Access: Because it is deployed at the user-level, each agent can only do what their employee companion has access to; No marketing team will be accidentaly deleting databases on accident on our watch.
-
-**3. Non-Linear Resilience (Surgical Correction)**
-Stop wasting time on "restart from Step 1."
-
-* Modular Recovery: If a 20-step process fails at step 12, you can audit, fix, and resume at step 12.
-* Dynamic Orchestration: Correct individual tasks mid-process without disrupting the entire workflow, saving compute time and costs, and operational momentum.
-
-------------------------------
-## Our Approach: Onboarding vs. Integration
-We believe the best AI behaves like a professional. Our "Onboarding" framework ensures:
-
-* Champions: The best way to adopt technology in the work place is from within not from the top; Using Champions/Power-Users to guide the internal On-boarding ensures our tools are better recieved and utilized by even the least tech-savy employees.
-* Auditability: Real-time logging of who (which agent) did what, and under what authority.
-* Agility: Swap, upgrade, or pause individual tasks without breaking the system.
-* Transparency: No black boxes. Just logic you can see, verify, and trust.
-
-------------------------------
-## 🤝 Work With Us
-We are looking for partners and enterprises ready to move past the AI hype and into high-utility, high-security operations.
-
-* For Enterprises: Secure your automation and eliminate process fragility.
-* For Visionaries: Help us define the next era of "Obvious" intelligence.
-
--------------------------------
-## About Axiomatic Lab
-
-Bringing Common Sense Back to Automation
-
-Ax Lab exists to close the gap between AI potential and enterprise reality. We believe that the best AI behaves like a professional: it is accountable, transparent, and secure. We are not just building software; we are building the onboarding framework for the next generation of your workforce.
-
-[Explore Our Youtube Channel](https://www.youtube.com/channel/UCltGi4Su305oln_ldu-b94Q) | [Inquire About a Pilot](https://axiomaticlab.com) | [View Our LinkedIn](https://www.linkedin.com/company/axiomatic-lab/)
-
-
-
+Explore our active open-source core architecture on [GitHub](https://github.com/axiomatic7group).
