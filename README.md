@@ -7,11 +7,8 @@ Welcome to Ax(iomatic) Lab, we created Axiom AI, the AI Operating System that he
 Standard agentic AI frameworks are distributed across different platforms and systems, each with their own on-boarding, learning-curve, and results.
 Axiom AI brings all your AI tools in one place, chat, automate workflows, take notes, make plans, manage your calendar, enrich your leads, follow up with clients, and much, much, more, all in one platform. This allows for operational efficency, while AI learns, categorizes, documents and updates SOPs, Strategic Plans, FAQs, Content Ideas and more in the background while you run your business. 
 
-![Axiom AI](https://axiomaticlab.com/img/axiom_ai_home_hero.png)
-
-
 ------------------------------
-## Strategic Leadership
+## The Team
 
 **Daniel Marques**
 
@@ -24,58 +21,7 @@ Prior to launching Axiomatic Lab, Daniel operated as the Head of the CFO Solutio
 His background includes scaling capital architecture systems for the Finance Department of one of the leading European Investment Bank, deploying advanced process automation, dynamic statistical forecasting models, and establishing robust cross-border partnerships across ALM, Corporate Treasury, and Risk Management divisions to ensure innovation and improvements implemented meet stringent regulatory expectations. Daniel holds a BS in Business Management with a concentration in Fintech from the Martin Tuchman School of Management at NJIT, where he previously engineered automated quantitative trading systems as President of the NJIT Student Investment Fund.
 
 ------------------------------
-## Engineered for High Compliance 
 
-**The Axiom Layers**
-
-Our core platform solves the structural failure points of generative models through four deterministic software layers:
-
-* *The Governance Layer (Synapse)*: Enforces rigid Attribute-Based Access Control (ABAC). Automated agents mirror your institution's specific user-security clearances, completely preventing unauthorized internal data exposure and eliminating "Shadow AI".
-
-* *The Semantic Layer (Synapse)*: Translates complex, unstructured data points directly into structured, immutable corporate execution rules, ensuring agents interpret business realities without context-drift.
-
-* *The Action Layer (Cadence)*: Replaces linear brittle scripts with Non-Linear Process Resilience. When your tasks breaks and requires Human input, resume tasks where they stopped, instead of wasting time resetting the process back to step one.
-
-* *The Reasoning Layer (Daemon)*: Isolates a private "brain" that manages local data governance constraints versus API interactions, maximizing the opportunities to utilitze your data without comprimising on privacy.
-
-------------------------------
-## Institutional Technical Stack
-We build data infrastructure designed to withstand strenuous User Acceptance Testing (UAT) and rigorous regulatory compliance audits:
-
-<table style="width: 100%; text-align: left; border: thin solid var(--border) ; border-radius: 6px; overflow: hidden;">
-  <thead style="background:var(--bg-dark);">
-    <tr style=" border-bottom: thin solid var(--border) ;">
-      <th style="padding: 12px 16px; font-weight: 600; width: 30%;">Infrastructure Category</th>
-      <th style="padding: 12px 16px; font-weight: 600; width: 70%; color:var(--text-muted)">Technologies & Integrations Utilized</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 12px 16px; font-weight: bold;">AI Models</td>
-      <td style="padding: 12px 16px;  line-height: 1.5; color:var(--text-muted); background:var(--bg);">Open-Source/Open-Weight, GDPR compliant AI Models</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px 16px; font-weight: bold;">AI Frameworks & Agents</td>
-      <td style="padding: 12px 16px;  line-height: 1.5; color:var(--text-muted); background:var(--bg);">LangChain, Custom RAG (Retrieval-Augmented Generation), TensorFlow</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px 16px; font-weight: bold;">Data Processing & Analytics</td>
-      <td style="padding: 12px 16px;  line-height: 1.5; color:var(--text-muted); background:var(--bg);">Python, Scikit-learn, Advanced Data Governance Tooling</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px 16px; font-weight: bold; ">Database & Cloud Storage</td>
-      <td style="padding: 12px 16px; line-height: 1.5; color:var(--text-muted); background:var(--bg);">PostgreSQL, Enterprise Relational Architectures, Highly-Secure Local Data Environments</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px 16px; font-weight: bold;">Security & Operational Controls</td>
-      <td style="padding: 12px 16px; line-height: 1.5; color:var(--text-muted); background:var(--bg);">Attribute-Based Access Control (ABAC), Real-time Audit Logs, Human-in-the-loop (HITL) Handoffs</td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-------------------------------
 ## Example Services & Solutions
 
 1. Deterministic Task Onboarding: We ingest your current documented, step-by-step financial procedures and convert them into secure, task-level automated building blocks with 100% comprehensive audit tracking. 
