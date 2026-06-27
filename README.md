@@ -1,7 +1,7 @@
 ## Axiom AI, the AI OS for High-Compliance Industries - Grow Faster, Work Smarter! 
 
 Welcome to Ax(iomatic) Lab, we created Axiom AI, the AI Operating System that helps your organization grow faster, and work smarter.
-Stop experimenting with brittle prompts. Onboard auditable, hierarchical, and resilient digital labor built for high-compliance enterprises.
+An AI operating system built with intelligent agents that automate workflows, document knowledge, and scale your team's operations.
 
 Now accepting applications for Axiom's Beta Enterprise Pilot Programs. **To learn more:**
 
