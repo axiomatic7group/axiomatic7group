@@ -1,4 +1,4 @@
-## Axiom AI, the AI OS for High-Compliance Industries - Grow Faster, Work Smarter! 
+## Axiom AI, the AI OS for Hyper-Scaling Startups - Grow Faster, Work Smarter! 
 
 Welcome to Ax(iomatic) Lab, we created Axiom AI, the AI Operating System that helps your organization grow faster, and work smarter.
 An AI operating system built with intelligent agents that automate workflows, document knowledge, and scale your team's operations.
