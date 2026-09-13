@@ -1,42 +1,33 @@
-## Axiom AI, the AI OS for Hyper-Scaling Startups - Grow Faster, Work Smarter! 
+## Ax(iomatic) Lab is an Open-Source Lab developing the "No-Frills" AI solutions businesses actually want  
 
-Early-stage startups don't just need fractional C-suite advice, they need a reliable operational backbone that can scale fast. 
+After years of watching the large organization I worked for spend millions of dollars per year on subpar enterprise software solutions, I thought, there has to be a better answer. So I started Ax Lab, with the purpose of bringing to life all the tools and functionalities that a well-managed and productive enterprise would need. 
 
-Most companies hit a chaotic friction point when they hit hyper-scale growth and outgrow their founding team and begin to hire in-house experienced executives.
+I strongly believe that the winners of AI are going to be the businesses that find the best and most productive ways to implement this technology to help their business be more competitive. To promote fair competition and give small and medium size businesses (SMBs/SMEs), startups, and all entrepreneurs the opportunity to show how they can leverage AI to make more productive and competitive businesses, I have decided to focus the **primary** efforts of Ax Lab in producing Open-Source tools that anyone can use and build upon.    
 
-Tribal knowledge is lost, systems break, and, worst of all, growth stalls.
 
-At Axiom AI, we solve this by blending expert fractional leadership with custom AI software curation. We don’t just give you a strategic roadmap for fast growth; We embed the AI tools, prompts, and automations into your daily workflows from day one.
+If you are a entrepreneur, small business owner, or startup founder, looking for the No-Hype AI solutions for your business, let’s talk.
 
-As you scale, our software acts as the institutional memory of your company, making the eventual hand-off to your full-time, in-house hires seamless, documented, and hyper-efficient.
+  - Get a Free AI Opportunity <a href="https://axiomaticlab.com/portfolio/service/best-ai-strategy-for-smbs" target="_blank"> Audit! </a>
 
-------------------------------
 
-## How we support early-stage founders:
+  - See our tools in action and learn more in our <a href="https://www.youtube.com/@axiomatic_lab?sub_confirmation=1" target="_blank"> YouTube Channel </a>
 
- * **Fractional C-Suite**: Hands-on strategy across Finance (CFO), Go-To-Market (CMO), and Operations/Execution (COO/Chief of Staff).
-
- * **AI Operational Roadmap**s: Designing the exact tech stack you need to stay lean while growing rapidly.
-
- * **The Software Hand-Off**: Curating and configuring AI systems during our tenure so your future in-house hires inherit an optimized, automated machine.
-
-If you are an early-stage founder looking to build a high-growth, AI-leveraged organization without the overhead of immediate full-time executive hires, let’s talk.
-
-Now accepting applications for Axiom's Beta Enterprise Pilot Programs. **To learn more:**
-
-  - Request a Technical Pilot [Consultation!](https://axiomaticlab.com/contact)
-
-  - See Axiom in [Action!](https://www.youtube.com/channel/UCltGi4Su305oln_ldu-b94Q)
-
-  - Explore our core open-source architecture on [GitHub](https://github.com/axiomatic7group).
+If you are a developer or enthusiast looking to learn more about Open-Source tools, **explore our core open-source architecture:**
+- <a href="https://github.com/axiomatic7group" target="_blank"> Axiom AI - all-in-on AI Operating System </a>
+- <a href="https://axiomaticlab.com/portfolio/project/daemon" target="_blank"> Daemon - Local AI Chatbot </a>
+- <a href="https://axiomaticlab.com/portfolio/project/synapse" target="_blank"> Synapse - Governance and Semantic Layer Management </a>
+- <a href="https://axiomaticlab.com/portfolio/project/cadence" target="_blank"> Cadence - Project & Client Relationship Management </a>
+- <a href="https://github.com/axiomatic7group/ax_portfolio" target="_blank"> Portfolio - Website & Leads Funnel </a>
 
 
 ------------------------------
 
 ## The Team
 
-**Daniel Marques**  -  Founder - [LinkedIn Profile](https://www.linkedin.com/in/daniel-encarnacao/)
+**Daniel Marques**  -  Founder - [LinkedIn Profile](https://www.linkedin.com/in/daniel-encarnacao/){:target="_blank"}
 
 Daniel is an executive finance and operations leader with over six years of experience accelerating technological and operational development within Tier-1 financial institutions. Expert in aligning core financial and fiscal strategy with automated data systems, he specializes in building 0-to-1 operational systems and workflows across complex, highly regulated corporate environments.
 
 Prior to launching Axiomatic Lab, Daniel operated as the Head of the CFO Solutions at a Top-10 Global Investment Bank in New York. In this capacity, he directed the AI-driven data automation strategies that achieved $35M in annual operational efficiencies, cut global reporting turnaround times by 25%, and reduced 85% of human errors across critical regulatory reporting data streams. Daniel holds a BS in Business Management with a concentration in Fintech from the Martin Tuchman School of Management at NJIT, where he previously engineered automated quantitative trading systems as President of the NJIT Student Investment Fund.
+
+If you would like to collaborate on any of our open-source projects, please reach out on here or LinkedIn; Always happy to grow the community
