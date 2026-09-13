@@ -26,8 +26,6 @@ If you are a developer or enthusiast looking to learn more about Open-Source too
 
 **Daniel Marques**  -  Founder - [LinkedIn Profile](https://www.linkedin.com/in/daniel-encarnacao/){:target="_blank"}
 
-Daniel is an executive finance and operations leader with over six years of experience accelerating technological and operational development within Tier-1 financial institutions. Expert in aligning core financial and fiscal strategy with automated data systems, he specializes in building 0-to-1 operational systems and workflows across complex, highly regulated corporate environments.
-
-Prior to launching Axiomatic Lab, Daniel operated as the Head of the CFO Solutions at a Top-10 Global Investment Bank in New York. In this capacity, he directed the AI-driven data automation strategies that achieved $35M in annual operational efficiencies, cut global reporting turnaround times by 25%, and reduced 85% of human errors across critical regulatory reporting data streams. Daniel holds a BS in Business Management with a concentration in Fintech from the Martin Tuchman School of Management at NJIT, where he previously engineered automated quantitative trading systems as President of the NJIT Student Investment Fund.
+Daniel is an executive finance and operations leader with over six years of experience accelerating technological and operational development within Tier-1 financial institutions. Prior to launching Axiomatic Lab, Daniel operated as the Head of the CFO Solutions at a Top-10 Global Investment Bank in New York. In this capacity, he directed the AI-driven data automation strategies that achieved $35M in operational efficiencies, cut reporting turnaround times by 25%, and reduced 85% of human errors across critical regulatory reporting data streams. 
 
 If you would like to collaborate on any of our open-source projects, please reach out on here or LinkedIn; Always happy to grow the community
