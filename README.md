@@ -13,7 +13,7 @@ If you are a entrepreneur, small business owner, or startup founder, looking for
   - See our tools in action and learn more in our <a href="https://www.youtube.com/@axiomatic_lab?sub_confirmation=1" target="_blank"> YouTube Channel </a>
 
 If you are a developer or enthusiast looking to learn more about Open-Source tools, **explore our core open-source architecture:**
-- <a href="https://github.com/axiomatic7group" target="_blank"> Axiom AI - all-in-on AI Operating System </a>
+- <a href="https://github.com/axiomatic7group/ax_ai" target="_blank"> Axiom AI - all-in-on AI Operating System </a>
 - <a href="https://axiomaticlab.com/portfolio/project/daemon" target="_blank"> Daemon - Local AI Chatbot </a>
 - <a href="https://axiomaticlab.com/portfolio/project/synapse" target="_blank"> Synapse - Ontology & Advanced Semantic Layer Management </a>
 - <a href="https://axiomaticlab.com/portfolio/project/cadence" target="_blank"> Cadence - Project & Client Relationship Management </a>
